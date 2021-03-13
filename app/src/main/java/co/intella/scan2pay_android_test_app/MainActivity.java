@@ -47,8 +47,8 @@ public class MainActivity extends AppCompatActivity {
     final static String API_URL = "https://s.intella.co/allpaypass/api/general";   // for test server
     final static String MchId = "S2PT90001";   // your MchId (login account)
     final static String TradeKey = "c4fe6b6dbe94790f232013154cb80fc5dd3ec9106d433492f20f038b1ce25656";     // SHA256 encoded
-    final static String RefundKey = "13b7994fae9387c2e1b598524ba1204ae404d02fa67016ed86c74183ab1aafca";    // SHA256 encoded
-    final static String DeviceId = "01304096"; // for EasyCard API
+    final static String RefundKey = "13b7994fae9387c2e1b598524ba1204ae404d02fa67016ed86c74183ab1aabcd";    // SHA256 encoded
+    final static String DeviceId = "01300123"; // for EasyCard API
 
 
     private TestOLPay mTestOLPayTask;
